@@ -1,1 +1,1 @@
-blgupogonsino.html.oi
+blgupogonsino.index.html
